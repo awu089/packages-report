@@ -1,13 +1,13 @@
 #' Which libraries does R search for packages?
 
-
+#bloo
 #' Installed packages
 
 ## use installed.packages() to get all installed packages
 
 ## how many packages?
-View(allpackages)
-235
+#View(allpackages)
+#235
 
 #' Exploring the packages
 
