@@ -12,7 +12,7 @@
 
 ## how many packages?
 #View(allpackages)
-#235
+235
 
 #' Exploring the packages
 
