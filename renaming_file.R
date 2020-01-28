@@ -6,7 +6,7 @@
 #' Which libraries does R search for packages?
 
 #bloo
-#' Installed packages
+#' Installed packages;;;
 
 ## use installed.packages() to get all installed packages
 
